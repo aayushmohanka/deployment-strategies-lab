@@ -1,9 +1,9 @@
-package com.github.action.learning.callback;
+package com.deployment.strategies;
 
-import com.github.action.learning.callback.service.APM1;
-import com.github.action.learning.callback.service.APM2;
-import com.github.action.learning.callback.service.CallbackHandler;
-import com.github.action.learning.callback.service.CallbackHandlerResolver;
+import com.deployment.strategies.service.APM1;
+import com.deployment.strategies.service.APM2;
+import com.deployment.strategies.service.CallbackHandler;
+import com.deployment.strategies.service.CallbackHandlerResolver;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

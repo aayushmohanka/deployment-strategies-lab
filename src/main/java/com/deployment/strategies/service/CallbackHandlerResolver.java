@@ -1,4 +1,4 @@
-package com.github.action.learning.callback.service;
+package com.deployment.strategies.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;

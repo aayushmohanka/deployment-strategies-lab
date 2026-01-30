@@ -1,4 +1,4 @@
-package com.github.action.learning.callback;
+package com.deployment.strategies;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

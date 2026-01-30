@@ -1,4 +1,4 @@
-package com.github.action.learning.callback.infrastructure.external;
+package com.deployment.strategies.infrastructure.external;
 
 public class APM1External implements ExternalClient{
 

@@ -1,6 +1,6 @@
-package com.github.action.learning.callback.controller;
+package com.deployment.strategies.controller;
 
-import com.github.action.learning.callback.service.CallbackHandlerResolver;
+import com.deployment.strategies.service.CallbackHandlerResolver;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

@@ -1,4 +1,4 @@
-package com.github.action.learning.callback;
+package com.deployment.strategies;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
